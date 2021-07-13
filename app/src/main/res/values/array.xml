@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="string_array">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>PHP</item>
+        <item>MXN</item>
+        <item>CHF</item>
+        <item>CAD</item>
+        <item>DKK</item>
+        <item>BRL</item>
+        <item>NZD</item>
+    </string-array>
+</resources>

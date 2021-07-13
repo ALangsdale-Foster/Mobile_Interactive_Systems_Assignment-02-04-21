@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MIS_App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api">AIzaSyAsOMm1VDzWkYkp1VlB-yAQxF5TH6_0OYk</string>
+</resources>
